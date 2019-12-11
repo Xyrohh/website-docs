@@ -45,6 +45,9 @@ Keep your speed around or above 0.666.
 ##### Flashlight:
 FL plays above 7.0+ stars are forbidden, unless the play has already been done before on official osu!.
 
+#### Score multipliers:
+Score multipliers are prohibited.
+
 <h3><i  class="shield icon"></i> Moderation policy</h3>
 
 Unlike other infractions, we have a fixed moderation policy for hacking rules. If you are caught breaking those rules, your account will be wiped. It means all your scores will be deleted. You will also get one strike.
