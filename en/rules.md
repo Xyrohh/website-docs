@@ -34,19 +34,20 @@ These rules apply to both our Discord and in-game chat.
 
 <h3><i  class="warning icon"></i> Hacking rules</h3>
 
+#### Even though Kawata is a cheating server, we are enforcing a few rules, to make sure playing on Kawata is a fun and rewarding experience for everyone!
 #### _Failure to comply to the rules in this section will result in an **account wipe and a strike**._
 
-##### Strictly forbidden:
-Autobots, Replay bots, Replay-edit bots are strictly forbidden.
+##### Auto bots, replay bots:
+Auto bots, replay bots, and replay editor bots are prohibited.
 
 ##### Timewarp:
-Keep your speed around or above 0.666.
+Timewarp is allowed around or above 0.666.
 
 ##### Flashlight:
-FL plays above 7.0+ stars are forbidden, unless the play has already been done before on official osu!.
+FL plays above 7.0+ stars are prohibited, unless the play has already been done before on official osu!.
 
-#### Score multipliers:
-Score multipliers are prohibited.
+#### Score modifiers:
+Score multipliers, as well as any mods that modify your results (accuracy, miss counts...) are prohibited.
 
 <h3><i  class="shield icon"></i> Moderation policy</h3>
 
