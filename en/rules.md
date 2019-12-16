@@ -49,6 +49,9 @@ FL plays above 7.0+ stars are prohibited, unless the play has already been done 
 #### Score modifiers:
 Score multipliers, as well as any mods that modify your results (accuracy, miss counts...) are prohibited.
 
+#### CS modifiers:
+CS modifiers may only be set to 1 below the original CS of the map.
+
 <h3><i  class="shield icon"></i> Moderation policy</h3>
 
 Unlike other infractions, we have a fixed moderation policy for hacking rules. If you are caught breaking those rules, your account will be wiped. It means all your scores will be deleted. You will also get one strike.
