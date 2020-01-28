@@ -49,8 +49,6 @@ FL plays above 7.0+ stars are prohibited, unless the play has already been done 
 #### Score modifiers:
 Score multipliers, as well as any mods that modify your results (accuracy, miss counts...) are prohibited.
 
-Exception is made to the "SMLWR" mod, which is, unless abused, allowed.
-
 #### CS modifiers:
 CS modifiers may only be set to 1 below the original CS of the map.
 
