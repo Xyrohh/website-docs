@@ -8,7 +8,7 @@ old_id: 9
 
 #### _Any violation of the rules in this section will result in a **restriction or ban, temporary or permanent**, depending on the gravity._
 
-1.  All hacks other than Replay and Auto bots are allowed.
+1.  Unfair hacks such as Score Multipliers, Spinbots, Autobots, Replay editors are currently not allowed on Kawata, please refer to cheating rules!
     
 2.  Shared or boosted accounts are NOT allowed.
     
@@ -32,7 +32,7 @@ These rules apply to both our Discord and in-game chat.
     
 4.  Discrimination, racism, sexism, and hate speech are all strictly disallowed.
 
-<h3><i  class="warning icon"></i> Hacking rules</h3>
+<h3><i  class="warning icon"></i> Cheating rules</h3>
 
 #### Even though Kawata is a cheating server, we are enforcing a few rules, to make sure playing on Kawata is a fun and rewarding experience for everyone!
 #### _Failure to comply to the rules in this section will result in an **account wipe and a strike**._
