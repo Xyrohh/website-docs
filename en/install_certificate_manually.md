@@ -5,7 +5,7 @@ old_id: 12
 If you're having troubles connecting to Kawata using stable (latest)/beta/cuttingedge or the switcher doesn't install the certificate properly, you can install the certificate manually.
 
 ### Instructions
-- First, download the certificate [by clicking here](https://raw.githubusercontent.com/kawatapw/hanayo/bc9e94a61ef3bd5b6f95e7f8746d2465e5763590/static/cert.crt)
+- First, download the certificate [by clicking here](https://raw.githubusercontent.com/kawatapw/hanayo/732a62e13b56a0819e47b3f0d24aa5f9bc8bbcfc/static/cert.crt)
 - Then, open **certificate.crt**
 - Click **Install certificate...**
 - Click **Next**
