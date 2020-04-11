@@ -41,7 +41,7 @@ These rules apply to both our Discord and in-game chat.
 Auto bots, replay bots, and replay editor bots are prohibited.
 
 ##### Aim Correction/Aim Assist:
-AQN Aim Correction and Aim Assist are fine, pretty much all aim assist and correction are allowed as long as they are not Silent Aim (literally teleports on circles from a long distance).
+AQN Aim Correction and Aim Assist are fine, pretty much any aim assist and correction is allowed as long as they are not Silent Aim (literally teleports on circles from a long distance).
 
 Aim Assistance should be here to assist you, not to correct every misses even when they are blatant.
 
