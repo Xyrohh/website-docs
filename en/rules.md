@@ -16,7 +16,7 @@ old_id: 9
     
 4.  Use an appropriate username or avatar; If you do not, your privileges to use them will be discontinued.
     
-5.  Multi accounts are stitcly prohibed.
+5.  Multi accounts are strictly prohibed.
 
 <h3><i  class="comment icon"></i> Chat rules</h3>
 
@@ -46,7 +46,7 @@ AQN Aim Correction and Aim Assist are fine, pretty much any aim assist and corre
 Aim Assistance should be here to assist you, not to correct every misses even when they are blatant.
 
 ##### Timewarp:
-Timewarp is allowed around or above 0.666.
+Timewarp is allowed at **0.666** or above for hqOsu users/Ainu users and /**100** or above for AQN users.
 
 ##### Flashlight:
 FL plays above 7.0+ stars are prohibited, unless the play has already been done before on official osu!.
