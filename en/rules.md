@@ -46,7 +46,7 @@ AQN Aim Correction and Aim Assist are fine, pretty much any aim assist and corre
 Aim Assistance should be here to assist you, not to correct every misses even when they are blatant.
 
 ##### Timewarp:
-Timewarp is allowed at **0.666** or above for hqOsu users/Ainu users and /**100** or above for AQN users.
+Timewarp is allowed at **0.666** or above for hqOsu users/Ainu users and **100** or above for AQN users.
 
 ##### Flashlight:
 FL plays above 7.0+ stars are prohibited, unless the play has already been done before on official osu!.
