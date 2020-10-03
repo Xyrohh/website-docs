@@ -10,16 +10,16 @@ For this, you will need to modify your *hosts* file. To do so, run `nano /etc/ho
 When you've got it open, paste the following at the bottom:
 
 ```
-88.198.32.217 osu.ppy.sh
-88.198.32.217 c.ppy.sh
-88.198.32.217 c1.ppy.sh
-88.198.32.217 c2.ppy.sh
-88.198.32.217 c3.ppy.sh
-88.198.32.217 c4.ppy.sh
-88.198.32.217 c5.ppy.sh
-88.198.32.217 ce.ppy.sh
-88.198.32.217 a.ppy.sh
-88.198.32.217 i.ppy.sh
+88.99.222.214 osu.ppy.sh
+88.99.222.214 c.ppy.sh
+88.99.222.214 c1.ppy.sh
+88.99.222.214 c2.ppy.sh
+88.99.222.214 c3.ppy.sh
+88.99.222.214 c4.ppy.sh
+88.99.222.214 c5.ppy.sh
+88.99.222.214 ce.ppy.sh
+88.99.222.214 a.ppy.sh
+88.99.222.214 i.ppy.sh
 ```
 **CTRL+X** and then **Enter** to save the file.
 
