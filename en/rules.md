@@ -8,7 +8,7 @@ old_id: 9
 
 #### _Any violation of the rules in this section will result in a **restriction or ban, temporary or permanent**, depending on the gravity._
 
-1.  Unfair hacks such as Score Multipliers, Spinbots, Autobots, Replay editors are currently not allowed on Kawata, please refer to cheating rules!
+1.  Unfair hacks such as Score Multipliers, OD Changers, Spinbots, Autobots, Replay editors are currently not allowed on Kawata, please refer to cheating rules!
     
 2.  Shared or boosted accounts are NOT allowed.
     
