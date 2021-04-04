@@ -1,6 +1,6 @@
 ---
 title: "How to connect to Kawata"
-old_id: 11
+old_id: 12
 ---
 - [Register](https://kawata.pw/index.php?p=3) an account  
 
