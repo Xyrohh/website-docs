@@ -24,7 +24,7 @@ When you've got it open, paste the following at the bottom:
 **CTRL+X** and then **Enter** to save the file.
 
 ### Installing the certificate
-Download the certificate by clicking [*here*](https://raw.githubusercontent.com/osukawata/Kawata-Switcher/master/GatariSwitcher/Resources/cert.crt)
+Download the certificate by clicking [*here*](/static/cert.crt)
 
 Open the Internet Explorer configuration by running `wine control`.
 

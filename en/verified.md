@@ -1,10 +1,11 @@
 ---
-title: "How to get Verified"
-old_id: 10
+title: "How to get Verified?"
+old_id: 19
 ---
+
 <h4 class="centered">We reserve the right to remove your badge and/or re-verify you.<br>New rules may or may not be retroactive at our own discretion.</h4>
 
-<h3><i  class="fas fa-certificate"></i>Verification rules</h3>
+<h3><i class="fas fa-certificate"></i>Verification rules</h3>
 
 #### _Any violation of the rules in this section will result in a **wipe and permanent badge removal**._
 
@@ -14,7 +15,7 @@ old_id: 10
     
 3.  Player must have an account that is at least 28 days old.
 
-<h3><i  class="fas fa-exclamation-circle"></i> Special requirements</h3>
+<h3><i class="fas fa-exclamation-circle"></i> Special requirements</h3>
 
 #### _Above is not needed for this **except rule 3**._
 You do not need to have done one of the “normal” requirements if you done one of the special ones!

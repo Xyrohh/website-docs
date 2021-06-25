@@ -3,7 +3,7 @@ title: "FAQ"
 old_id: 5
 ---
 - **I can't play on stable/beta/cutting edge**
-- You need to install our HTTPS certificate. Download [our server switcher](https://kawata.pw/static/kawata-server-switcher.exe) and click **"Install certificate"**. If you're still having problems, [follow these instructions](https://kawata.pw/index.php?p=16&id=12) to install the certificate **manually**.
+- Please check our [How to play on Kawata](/doc/connection_guide) guide for instructions on how to connect to our server.
 
 -----------------------
 
@@ -12,13 +12,8 @@ old_id: 5
 
 -----------------------
 
-- **I get "Invalid Kawata IP" on the switcher, how do I fix it?**  
-- Make sure you don't have invalid characters (such as spaces, commas and so on) in your Kawata IP. The IP must contain numbers and dots only.
-
------------------------
-
 - **I get "Connection failed" when I try to connect to Kawata**  
-- Please come on our [Discord](https://discord.gg/au3YR9p) and we'll help you.
+- Please come on our [Discord server](https://discord.gg/4CzsqkK) and we'll help you.
 
 -----------------------
 
@@ -28,7 +23,7 @@ old_id: 5
 -----------------------
 
 - **I can't download maps from osu!direct.**
-- Make sure you are using the latest version of the switcher. It should look like [this](https://lolisareinthe.club/o8k9NOKe.png). If it looks different, download it again from [here](https://kawata.pw/static/kawata_server_switcher.exe)
+- Make sure you are using the latest version of the switcher. If you are not sure, download it again from [here](https://github.com/kawatapw/Kawata-Switcher/releases/download/1/KawataSwitcher.exe)
 
 -----------------------
 
@@ -58,12 +53,12 @@ old_id: 5
 -----------------------
 
 - **Is there a patcher for Kawata?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://kawata.pw/doc/1).
+- No, you can change server using different methods. [Instructions here](/doc/connection_guide).
 
 -----------------------
 
 - **Can I have Kawata's source code?**
--  Kawata is fully open source, you can see it [here](https://github.com/osukawata).
+-  Kawata is fully open source, you can see it [here](https://github.com/kawatapw).
 
 -----------------------
 
@@ -73,4 +68,4 @@ old_id: 5
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://discord.gg/au3YR9p) and ask your question in the #support channel of the server.
+- Join our [Discord server](https://discord.gg/4CzsqkK) and ask your question in the #support channel of the server.

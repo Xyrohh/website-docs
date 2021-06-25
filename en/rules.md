@@ -4,7 +4,7 @@ old_id: 9
 ---
 <h4 class="centered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our own discretion.</h4>
 
-<h3><i  class="game icon"></i>General rules</h3>
+<h3><i class="game icon"></i>General rules</h3>
 
 #### _Any violation of the rules in this section will result in a **restriction or ban, temporary or permanent**, depending on the gravity._
 
@@ -18,7 +18,7 @@ old_id: 9
     
 5.  Multi accounts are strictly prohibed.
 
-<h3><i  class="comment icon"></i> Chat rules</h3>
+<h3><i class="comment icon"></i> Chat rules</h3>
 
 #### _Failure to comply to the rules in this section will result in a **silence**._
 
@@ -32,7 +32,7 @@ These rules apply to both our Discord and in-game chat.
     
 4.  Discrimination, racism, sexism, and hate speech are all strictly disallowed.
 
-<h3><i  class="warning icon"></i> Cheating rules</h3>
+<h3><i class="warning icon"></i> Cheating rules</h3>
 
 #### Even though Kawata is a cheating server, we are enforcing a few rules, to make sure playing on Kawata is a fun and rewarding experience for everyone!
 #### _Failure to comply to the rules in this section will result in an **account wipe and a strike**._
@@ -57,7 +57,7 @@ Score multipliers, as well as any mods that modify your results (accuracy, miss 
 #### CS modifiers:
 CS modifiers may only be set to 1 below the original CS of the map.
 
-<h3><i  class="shield icon"></i> Moderation policy</h3>
+<h3><i class="shield icon"></i> Moderation policy</h3>
 
 Unlike other infractions, we have a fixed moderation policy for hacking rules. If you are caught breaking those rules, your account will be wiped. It means all your scores will be deleted. You will also get one strike.
 
