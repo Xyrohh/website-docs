@@ -5,7 +5,7 @@ old_id: 1
 
 ## Video tutorial
 We now have a video tutorial to get you up and running in no time!
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/imdQcbwOoi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/imdQcbwOoi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 # Registering on Kawata
 To create your Kawata account, follow [this link](/register), and follow the instructions to create your account.
