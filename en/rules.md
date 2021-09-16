@@ -50,13 +50,18 @@ Your timewarp speed must be over **0.6** (For **AQN**: **66** without DT, **100*
 DT Timewarp must be nomod speed.
 
 ##### Flashlight:
-FL plays above 7.0+ stars are prohibited, unless the play has already been done before on official osu!.
+You can use flashlight but you can't use it if the map's difficulty is higher than 7 stars (after mods). If the map is 7+ stars but there's a flashlight play set on bancho in top 50, you can play it with flashlight mod. If you're unsure, then ask.
 
 #### Score modifiers:
 Score multipliers, as well as any mods that modify your results (accuracy, miss counts...) are prohibited.
 
 #### CS modifiers:
-CS modifiers may only be set to 1 below the original CS of the map.
+CS modifiers may only be set to 1 below the original CS of the map (after mods).
+
+<h3><i class="warning icon"></i> Specific Gamemodes Rules</h3>
+
+##### CTB:
+Hyperwalk maps are not allowed.
 
 <h3><i class="shield icon"></i> Moderation policy</h3>
 
