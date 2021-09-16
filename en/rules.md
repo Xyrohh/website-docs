@@ -43,7 +43,12 @@ Auto bots, replay bots, and replay editor bots are prohibited.
 ##### Aim Correction/Aim Assist:
 AQN Aim Correction and Aim Assist are fine, pretty much any aim assist and correction is allowed as long as they are not Silent Aim (literally teleports on circles even from a long distance).
 
-Aim Assistance should be here to assist you, not to correct every misses even when they are blatant.
+Here's more details:
+
+# Aoba's ainu SAVE ME: Allowed;
+# MPGH default aim correction: Allowed;
+# Skooter's aim correction: Allowed (must be equal or below 60);
+# AQN Aim Assist: Allowed as it works a different way.
 
 ##### Timewarp:
 Your timewarp speed must be over **0.6** (For **AQN**: **66** without DT, **100** with DT | For **osu!rx**: **0,6** without DT, **1,0** with DT);
@@ -52,15 +57,23 @@ DT Timewarp must be nomod speed.
 ##### Flashlight:
 You can use flashlight but you can't use it if the map's difficulty is higher than 7 stars (after mods). If the map is 7+ stars but there's a flashlight play set on bancho in top 50, you can play it with flashlight mod. If you're unsure, then ask.
 
-#### Score modifiers:
+##### Score modifiers:
 Score multipliers, as well as any mods that modify your results (accuracy, miss counts...) are prohibited.
 
-#### CS modifiers:
+##### CS modifiers:
 CS modifiers may only be set to 1 below the original CS of the map (after mods).
+
+Here's more details:
+
+# For NoMod plays: Default CS - 1 (eg. CS4 -> CS3);
+# For HR plays: Default CS - 0.77 (eg. CS4 -> CS3.23);
+# For EZ plays: Default CS - 2 (eg. CS4 -> CS2).
+
+## THOSE VALUES MUST BE APPLIED TO THE MAP'S DEFAULT CS (WITHOUT ANY MODS). TO CHECK IT, FIRST TURN OFF CS CHANGER, RELOAD THE MAP BY CLICKING TO PLAY AND LEAVING AND THEN TURN EVERY MOD OFF.
 
 <h3><i class="warning icon"></i> Specific Gamemodes Rules</h3>
 
-##### CTB:
+#### CTB:
 Hyperwalk maps are not allowed.
 
 <h3><i class="shield icon"></i> Moderation policy</h3>
