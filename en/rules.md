@@ -32,7 +32,7 @@ These rules apply to both our Discord and in-game chat.
     
 4.  Discrimination, racism, sexism, and hate speech are all strictly disallowed.
 
-<h3><i class="warning icon"></i> Cheating rules</h3>
+<h3><i class="warning icon"></i> Cheating rules 🤠</h3>
 
 #### Even though Kawata is a cheating server, we are enforcing a few rules, to make sure playing on Kawata is a fun and rewarding experience for everyone!
 #### _Failure to comply to the rules in this section will result in an **account wipe and a strike**._
@@ -43,12 +43,12 @@ Auto bots, replay bots, and replay editor bots are prohibited.
 ##### Aim Correction/Aim Assist:
 AQN Aim Correction and Aim Assist are fine, pretty much any aim assist and correction is allowed as long as they are not Silent Aim (literally teleports on circles even from a long distance).
 
-Here's more details:
+#### _Here's more details:_
 
-###### Aoba's ainu SAVE ME: Allowed;
-###### MPGH default aim correction: Allowed;
-###### Skooter's aim correction: Allowed (must be equal or below 60);
-###### AQN Aim Assist: Allowed as it works a different way.
+Aoba's ainu SAVE ME: Allowed;
+MPGH default aim correction: Allowed;
+Skooter's aim correction: Allowed (must be equal or below 60);
+AQN Aim Assist: Allowed as it works a different way.
 
 ##### Timewarp:
 Your timewarp speed must be over **0.6** (For **AQN**: **66** without DT, **100** with DT | For **osu!rx**: **0,6** without DT, **1,0** with DT);
@@ -63,11 +63,11 @@ Score multipliers, as well as any mods that modify your results (accuracy, miss 
 ##### CS modifiers:
 CS modifiers may only be set to 1 below the original CS of the map (after mods).
 
-Here's more details:
+#### _Here's more details:_
 
-###### For NoMod plays: Default CS - 1 (eg. CS4 -> CS3);
-###### For HR plays: Default CS - 0.77 (eg. CS4 -> CS3.23);
-###### For EZ plays: Default CS - 2 (eg. CS4 -> CS2).
+For NoMod plays: Default CS - 1 (eg. CS4 -> CS3);
+For HR plays: Default CS - 0.77 (eg. CS4 -> CS3.23);
+For EZ plays: Default CS - 2 (eg. CS4 -> CS2).
 
 ##### THOSE VALUES MUST BE APPLIED TO THE MAP'S DEFAULT CS (WITHOUT ANY MODS). TO CHECK IT, FIRST TURN OFF CS CHANGER, RELOAD THE MAP BY CLICKING TO PLAY AND LEAVING AND THEN TURN EVERY MOD OFF.
 
