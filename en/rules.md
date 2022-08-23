@@ -9,7 +9,7 @@ old_id: 9
 
 #### _Any violation of the rules in this section will result in a **restriction or ban, temporary or permanent**, depending on the gravity._
 
-1.  Unfair Hacks; like replay bots (as well as replay editing, by extension), score modifiers, OD changers, spinbots, Autobots, (including all forms of auto/cursordance bots), and cheats that modify the score's replay data(Tap Data, Aim Data, Mods, and Score Editors). But, this list is not all-inclusive, and staff can enforce this outside of the examples given.
+1.  Unfair Hacks; like replay bots (as well as replay editing, by extension), score modifiers, OD Changers, spinbots, Autobots, (including all forms of auto/cursordance bots), and cheats that modify the score's replay data, Tap Data, Aim Data, Mods, and Score Editors). But, this list is not all-inclusive, and staff can enforce this outside of the examples given.
     
 2.  Shared or boosted accounts are NOT allowed.
     
@@ -90,15 +90,15 @@ For osu!rx, That's:
 0.6 **Without DT**, 1.0 **With DT**.
 
 For Maple That's:
-60 **Without DT**, 90 **With DT**.
+60 **Without DT**, 100 **With DT**.
 
 
 ##### Flashlight:
 FL Removers are **allowed**, but only in certain circumstances.
-If a map's difficulty is higher than 7 Stars After Mods, (Meaning if you apply a mod and the star rating goes above 7 stars), you cannot use flashlight remover.
+If a map's difficulty is higher than 7 Stars After Mods, (Meaning If you apply a mod and the star rating goes above 7 stars), you cannot use flashlight remover.
 
 ##### Multiple Cheats:
-You can't now have more than **ONE** cheat instance/client open at the same time. this also applies to combining cheats, if you get caught doing so you will be banned.
+You can't now have more than **ONE** cheat instance/client open at the same time. this also applies to combining cheats. doing so, you will be banned.
 
 *The only exception for this rule is combining osu!rx (V1 or V2) with Kat's AA/any kind of Aim assist that doesn't have timewarp & relax.*
 
@@ -119,7 +119,7 @@ For EZ plays: Default CS - 2 (eg. CS4 -> CS2).
 #### Other Important Notes:
 For Ainu users, make sure the client you use was downloaded on MPGH, the Skoot.er Discord server or the Ainu Xheaters Discord server, otherwise it contains prohibited features.
 
-Things like: Relax hacks, AR changers, Enlighten (Un-HD), and other stuff that wasn't listed in the hacking rules ARE ALLOWED. You can also ask one of the staff members if you still need clarification.
+Things like: Relax hacks, AR Changers, Enlighten (Un-HD), and other stuff that wasn't listed in the hacking rules ARE ALLOWED. You can also ask one of the staff members if you still need clarification.
 
 <h3><i class="warning icon"></i> Specific Gamemodes Rules</h3>
 
