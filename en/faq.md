@@ -8,12 +8,12 @@ old_id: 5
 -----------------------
 
 - **My antivirus is blocking the switcher**
-- That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
+- That's because our switcher edits the hosts' file. Turn off your antivirus and run the switcher again.
 
 -----------------------
 
 - **I get "Connection failed" when I try to connect to Kawata**  
-- Please come on our [Discord server](https://discord.gg/4CzsqkK) and we'll help you.
+- Please come to our [Discord server](https://discord.gg/4CzsqkK) and we'll help you.
 
 -----------------------
 
@@ -53,7 +53,7 @@ old_id: 5
 -----------------------
 
 - **Is there a patcher for Kawata?**
-- No, you can change server using different methods. [Instructions here](/doc/connection_guide).
+- No, you can change the server using different methods. [Instructions here](/doc/connection_guide).
 
 -----------------------
 

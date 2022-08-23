@@ -20,19 +20,19 @@ osu! has recently added *official-ish* support for private servers. That means y
 ### Launching osu! on Kawata
 
 - Open your osu! installation folder.
-- Click the address bar, and type `osu!.exe -devserver kawata.pw`.
-- Open osu! and login with your Kawata account.
+- Click the address bar, and type `osu!.exe -devserver Kawata.pw`.
+- Open osu! and log in with your Kawata account.
 
 ### Creating a shortcut to connect quickly
 
 - Open your osu! installation folder.
-- Create a shotcut to osu!.exe wherever you want, or copy your existing shortcut.
+- Create a shortcut to osu!.exe wherever you want, or copy your existing shortcut.
 - Right-click your newly created shortcut, and click **Properties**.
-- In the **Target** field of the **Properties** window, add `-devserver kawata.pw` to the existing text.
-- Open your newly created shortcut and login with your Kawata account.
+- In the **Target** field of the **Properties** window, add `-devserver Kawata.pw` to the existing text.
+- Open your newly created shortcut and log in with your Kawata account.
 
 ## Old method (server switcher)
-This is the traditional method for connecting to private servers. This method requires administrator access, as it implies tampering with the osu! certificate, and the hosts file. This method is considered legacy and should only be used in cases where the new method cannot be used.
+This is the traditional method for connecting to private servers. This method requires administrator access, as it implies tampering with the osu! certificate, and the hosts' file. This method is considered legacy and should only be used in cases where the new method cannot be used.
 
 ### Certificate installation
 If you want to play on Kawata, you must install our HTTPS certificate.  
@@ -47,13 +47,13 @@ Do this only the first time you connect to Kawata.
 ### How to connect to Kawata
 - Run the switcher **as administrator**
 - Click "Connect to Kawata".
-- Make sure that the switcher says **"You're connected to Kawata!"** (it should look like [this](https://i.imgur.com/0LotBDY.png)), if not, click **"Connect to Kawata"** to switch server.
-- Open osu! and login with your Kawata account.
+- Make sure that the switcher says **"You're connected to Kawata!"** (it should look like [this](https://i.imgur.com/0LotBDY.png)), if not, click **"Connect to Kawata"** to switch servers.
+- Open osu! and log in with your Kawata account.
 
 ### How to play on official osu! again
 - Make sure osu! is **closed**  
 - Open the switcher and make sure it says **"You are playing on Bancho"** (it should look like [this](https://i.imgur.com/JwrBy8S.png)), if not, click **"Disconnect from Kawata"** to switch server.
-- Open osu! and login with your osu! account.
+- Open osu! and log in with your osu! account.
 _NOTE:_ If you want to connect to osu.ppy.sh and you still see Kawata's website even if the switcher is off, empty your browser cache.
 
 ### How to update osu!/switch release branch
