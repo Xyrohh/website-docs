@@ -8,7 +8,7 @@ old_id: 5
 -----------------------
 
 - **My antivirus is blocking the switcher**
-- That's because our switcher edits the hosts' file. Turn off your antivirus and run the switcher again.
+- That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
 
 -----------------------
 

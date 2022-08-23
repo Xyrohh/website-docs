@@ -32,7 +32,7 @@ osu! has recently added *official-ish* support for private servers. That means y
 - Open your newly created shortcut and log in with your Kawata account.
 
 ## Old method (server switcher)
-This is the traditional method for connecting to private servers. This method requires administrator access, as it implies tampering with the osu! certificate, and the hosts' file. This method is considered legacy and should only be used in cases where the new method cannot be used.
+This is the traditional method for connecting to private servers. This method requires administrator access, as it implies tampering with the osu! certificate, and the hosts file. This method is considered legacy and should only be used in cases where the new method cannot be used.
 
 ### Certificate installation
 If you want to play on Kawata, you must install our HTTPS certificate.  
