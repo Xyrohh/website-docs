@@ -3,7 +3,7 @@ title: "Rules"
 old_id: 9
 ---
 <h4 class="centered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our discretion.</h4>
-<h4 class="centered">Rules on this page may not always be updated. [Join our Discord](https://discord.gg/4CzsqkK) To guarantee you're reading the right rules. These rules were updated on August 5th, 2022.</h4>
+<h4 class="centered">Rules on this page may not always be updated. [Join our Discord](https://discord.gg/4CzsqkK) To guarantee you're reading the right rules. These rules were updated on October 3rd, 2022.</h4>
 
 <h3><i class="game icon"></i>General rules</h3>
 
@@ -114,7 +114,7 @@ For NoMod plays: Default CS - 1 (eg. CS4 -> CS3);
 For HR plays: Default CS - 0.77 (eg. CS4 -> CS3.23);
 For EZ plays: Default CS - 2 (eg. CS4 -> CS2).
 
-##### THOSE VALUES MUST BE APPLIED TO THE MAP'S DEFAULT CS (WITHOUT ANY MODS). TO CHECK IT, FIRST TURN OFF CS CHANGER, RELOAD THE MAP BY CLICKING TO PLAY AND LEAVING AND THEN TURN EVERY MOD OFF.
+##### These values must be applied to the map AFTER MODS ARE APPLIED. To check the CS, turn off your CS changer, reload the map and check in the top left corner where it says "CS: xxx AR: xxx OD: xxx"
 
 #### Other Important Notes:
 For Ainu users, make sure the client you use was downloaded on MPGH, the Skoot.er Discord server or the Ainu Xheaters Discord server, otherwise it contains prohibited features.
@@ -137,3 +137,22 @@ This means we'll never ban someone at their first wipe, other than for the Skoot
 You may appeal 1 month after your restriction unless you judge you haven't been restricted for a legitimate reason.
 
 If you want to appeal, you may email us at [accounts@kawata.pw](mailto:accounts@kawata.pw).
+
+
+#### Score Hunting:
+
+<h3><i class="game icon"></i>Score Hunting</h3>
+
+In September 2022, Kawata introduced Score Hunts!
+It's a way to get rewards from playing difficult, strange or techincal maps.
+And how it works is pretty simple.
+
+If you want to participate in a score hunt, [Join our Discord](https://discord.gg/4CzsqkK). in there you can find the #score-hunting channel, which shows you the active and previous score hunts.
+
+*make sure to read the requirements of __each__ scorehunt. they can change depending on any of them.*
+
+the following will **ALWAYS** be true for scorehunts.
+ 1. Scorehunt Information will be availible in #score-hunting & the [Public Score Hunt Spreadsheet](https://docs.google.com/spreadsheets/d/1iabjrE_O52rNifvUi8s1tBqzThGqa699pmwZdGZTCN8/edit?usp=sharing)
+ 2. Scorehunts will **NOT** allow CS changer.
+ 3. Scorehunts will follow the rules set here.
+ 4. Breaking scorehunt rules will incur a normal moderation punishment (See Moderation Policy) + a blacklist from all future scorehunts. 
