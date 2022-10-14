@@ -41,6 +41,7 @@ These rules apply to both our Discord and in-game chat.
 ##### Timewarp
 Timewarp has specific set limits: your Timewarp speed must be at minimum 66% of 1.5x speed for Double Time*, and **NO** Timewarp with nomod.
 #### _With the most Common Clients, This would be:_
+
 **AQN:** 100 with DT
 **osu!rx:** .66 with DT
 **Maple:** 100 With DT (Rate), .66 With DT (Multiplier)
