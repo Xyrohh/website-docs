@@ -3,7 +3,7 @@ title: "Rules"
 old_id: 9
 ---
 <h4 class="centered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our discretion.</h4>
-<h4 class="centered">Rules on this page may not always be updated. [Join our Discord](https://discord.gg/4CzsqkK) To guarantee you're reading the right rules. These rules were updated on October 3rd, 2022.</h4>
+<h4 class="centered">Rules on this page may not always be updated. [Join our Discord](https://discord.gg/4CzsqkK) To guarantee you're reading the right rules. These rules were updated on October 13th, 2022.</h4>
 
 <h3><i class="game icon"></i>General rules</h3>
 
@@ -39,8 +39,12 @@ These rules apply to both our Discord and in-game chat.
 #### _Failure to comply with the rules in this section will result in an **account wipe and a strike**._
 
 ##### Timewarp
-Timewarp has specific set limits: your Timewarp speed must be at minimum 60% of 1.5x speed for Double Time*, and 60% of 1x speed for nomod.
-
+Timewarp has specific set limits: your Timewarp speed must be at minimum 66% of 1.5x speed for Double Time*, and **NO** Timewarp with nomod.
+#### _With the most Common Clients, This would be:_
+**AQN:** 100 with DT
+**osu!rx:** .66 with DT
+**Maple:** 100 With DT (Rate), .66 With DT (Multiplier)
+**Ainu & Ainu Based Clients, eg. (Skooter, Abypass):** .66 With DT
 ##### Aim Correction/Aim Assist:
 Below listed are the HIGHEST allowed settings and/or whether or not the cheat is allowed for each of the most common aim assist tools for osu!. If your cheat is not listed, ask a moderator.
 
